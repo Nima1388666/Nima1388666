@@ -83,18 +83,7 @@ I am a **Python Developer 🤖**, **AI & Robotics Engineer**, and **Embedded Sys
 ---
 
 # 🚀 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,linux,git,github,vscode,arduino" /> </div> <div align="center"> <!-- EXTRA DESIGN / ENGINEERING TOOLS --> <img src="https://img.shields.io/badge/Elementor-00F7FF?style=for-the-badge&logo=elementor&logoColor=black"/> <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/> </div>
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nima1388666&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima1388666&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,linux,git,github,vscode,arduino" /> </div> <div align="center"> <!-- ENGINEERING & DESIGN TOOLS --> <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/> <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/> </div>
 
 # 🔥 Activity Graph
 
