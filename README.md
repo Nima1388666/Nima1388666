@@ -83,15 +83,7 @@ I am a **Python Developer 🤖**, **AI & Robotics Engineer**, and **Embedded Sys
 ---
 
 # 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,linux,git,github,vscode,arduino" />
-
-</div>
-
----
-
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,linux,git,github,vscode,arduino" /> </div> <div align="center"> <!-- EXTRA DESIGN / ENGINEERING TOOLS --> <img src="https://img.shields.io/badge/Elementor-00F7FF?style=for-the-badge&logo=elementor&logoColor=black"/> <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/> </div>
 # 📊 GitHub Stats
 
 <div align="center">
