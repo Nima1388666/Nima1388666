@@ -109,7 +109,7 @@ I am a **Python Developer 🤖**, **AI & Robotics Engineer**, and **Embedded Sys
 
 <div align="center">
 
-## ⚡ BUILD • LEARN • ENGINEER • REPEAT ⚡
+## ⚡ BUILD • LEARN • ENGINEER • ⚡
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 
