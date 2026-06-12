@@ -114,3 +114,21 @@ I am a **Python Developer 🤖**, **AI & Robotics Engineer**, and **Embedded Sys
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 
 </div>
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Nima1388666">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="mailto:nymawlynzhad@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/N688666">
+<img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</div>
