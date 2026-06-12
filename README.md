@@ -11,9 +11,7 @@
       <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
 
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#00F7FF" stroke-width="0.4"/>
-    </pattern>
+
   </defs>
 
   <rect width="1200" height="180" fill="url(#fade)" />
@@ -47,7 +45,7 @@
 
 ---
 
-# 🧠 About Me
+#  About Me
 
 I am a **Python Developer 🤖**, **AI & Robotics Engineer**, and **Embedded Systems Developer ⚡** passionate about building intelligent real-world systems that connect **software, hardware, and AI together**.
 
