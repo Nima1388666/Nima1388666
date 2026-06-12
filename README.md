@@ -1,37 +1,86 @@
-````md
+
+<!-- ═════ CYBER PIXEL GRID HEADER ═════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nima+Vlnjd;Python+Developer+%F0%9F%90%8D;Robotics+%26+AI+Engineer+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Embedded+Systems+%E2%9A%A1;OpenCV+%7C+ESP32+%7C+OpenMV" />
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw4aTZwYjJwOHY3MWo4N2ZlbTd4M2V3b29mZXJqcmQ4NzA2b3E5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="300"/>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#0a0f1c"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
 
-# ⚡ Nima Vlnjd ⚡
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#00F7FF" stroke-width="0.4"/>
+    </pattern>
+  </defs>
 
-### 💻 Python Developer | 🤖 AI & Robotics Enthusiast
+  <rect width="1200" height="180" fill="url(#fade)" />
+  <rect width="1200" height="180" fill="url(#grid)" opacity="0.5"/>
+  <line x1="0" y1="90" x2="1200" y2="90" stroke="#00F7FF" stroke-width="1.5" opacity="0.4"/>
+
+</svg>
 
 </div>
 
 ---
 
+<div align="center">
+
+<!-- ORBITRON PIXEL HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Nima+Vlnjd;Python+Developer+🐍;AI+%26+Robotics+Engineer+🤖;Computer+Vision+Expert+👁️;Embedded+Systems+Developer+⚡;RoboCup+Competitor+🏆;Hardware+%26+Software+Builder+🧠" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw4aTZwYjJwOHY3MWo4N2ZlbTd4M2V3b29mZXJqcmQ4NzA2b3E5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="280"/>
+
+# ⚡ NIMA VLNJD ⚡
+
+### 💻 Python | 🤖 AI | 👁️ Computer Vision | ⚡ Embedded Systems | 🔧 Hardware Engineer
+
+</div>
+
+---
+
+## ▣ SYSTEM STATUS: ACTIVE ⚡  
+## ▣ MODE: AI ENGINEERING 🤖  
+## ▣ BUILDING: SMART SYSTEMS 🚀  
+
+---
+
 # 🧠 About Me
 
-```python
-class Nima():
-    def __init__(self):
-        self.username = "Nima1388666"
-        self.language = "Python"
-        self.interests = [
-            "Artificial Intelligence",
-            "Computer Vision",
-            "Robotics",
-            "Embedded Systems",
-            "IoT",
-            "Electronics"
-        ]
+I am a **Python Developer 🤖**, **AI & Robotics Engineer**, and **Embedded Systems Developer ⚡** passionate about building intelligent real-world systems that connect **software, hardware, and AI together**.
 
-    def current_focus(self):
-        return "Building smart systems with AI & Hardware 🚀"
-````
+---
+
+# 🚀 Experience
+
+## 🐍 Programming & AI
+- Python Development
+- OpenCV & Computer Vision
+- Face Detection & Recognition
+- Artificial Intelligence Systems
+- Automation & Data Processing
+
+## 🤖 Robotics & Embedded Systems
+- RoboCup AI Competitions 🏆
+- ESP32 / ESP8266 / Mini ESP Projects
+- OpenMV Vision Systems 👁️
+- IoT & Smart Devices
+- Embedded Firmware Development
+
+## ⚡ Electronics & Hardware
+- Circuit Design
+- Sensors & Embedded Electronics
+- Microcontrollers
+- PCB Design (Altium Designer 🧩)
+
+## 🛠 Engineering & Design Tools
+- SolidWorks ⚙️ (Mechanical Design)
+- Linux 🐧 (Development & Systems)
+- Git & GitHub 🌐
+- VS Code 💻
+- Arduino IDE ⚡
 
 ---
 
@@ -39,21 +88,9 @@ class Nima():
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,opencv,linux,git,github,vscode,arduino,cpp" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,linux,git,github,vscode,arduino" />
 
 </div>
-
----
-
-# 🤖 Robotics & AI
-
-* 🏆 RoboCup AI Competitions
-* 👁️ Face Detection & Recognition
-* 📷 OpenCV Projects
-* 🤖 OpenMV Vision Systems
-* ⚡ ESP32 / ESP8266 Projects
-* 🔌 Embedded Hardware Development
-* 🌐 IoT Systems
 
 ---
 
@@ -69,12 +106,22 @@ class Nima():
 
 ---
 
+# 🔥 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nima1388666&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Nima1388666">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
 </div>
@@ -83,7 +130,8 @@ class Nima():
 
 <div align="center">
 
-## ⚡ "Always Learning • Always Building" ⚡
+## ⚡ BUILD • LEARN • ENGINEER • REPEAT ⚡
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 
 </div>
-```
